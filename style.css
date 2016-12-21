@@ -1,0 +1,11 @@
+h1 {
+  font-family: "sutro-black-initials";
+  font-size: 400px;
+  position: relative;
+  }
+
+  .center {
+    text-align: center;
+    border: 6px solid black;
+    max-height: 800px;
+}
